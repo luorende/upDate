@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgmain_close",
+    "texture": "485GRHhg1DuJMSe/5dNXsN",
+    "rect": [
+      0,
+      0,
+      111,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      116
+    ]
+  }
+}
